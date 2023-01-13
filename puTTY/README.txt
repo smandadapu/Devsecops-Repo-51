@@ -1,4 +1,4 @@
-PuTTY README
+PuTTY README New
 ============
 
 This is the README file for the PuTTY MSI installer distribution. If
